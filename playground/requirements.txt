@@ -1,7 +1,6 @@
 streamlit>=1.32.0
 python-dotenv>=1.0.0
-uvicorn>=0.27.0
 openai>=1.0.0
 
-# Install TAC from PyPI with server extras
-tac[server]
+# Install Twilio Agent Connect from PyPI with server extras
+twilio-agent-connect[server]>=1.0.0
